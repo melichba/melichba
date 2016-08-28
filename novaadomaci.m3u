@@ -1,0 +1,320 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="Logo N/A" tvg-name="Nova TV"  group-title="Domaci",Nova TV
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/19.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HRT 1"  group-title="Domaci",HRT 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/23.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HRT 2"  group-title="Domaci",HRT 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/22.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HRT 3"  group-title="Domaci",HRT 3
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/21.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HRT 4"  group-title="Domaci",HRT 4
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/20.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTL"  group-title="Domaci",RTL
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/17.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTL 2"  group-title="Domaci",RTL 2
+http://globiptv.com:8000/live/saib/fares/660.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTS 1"  group-title="Domaci",RTS 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/16.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTS 2"  group-title="Domaci",RTS 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/15.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nova RS"  group-title="Domaci",Nova RS
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/14.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Happy TV"  group-title="Domaci",Happy TV
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/13.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pink 1"  group-title="Domaci",Pink 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/18.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Face TV"  group-title="Domaci",Face TV
+http://188.247.133.21:8888/ipvt_005
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="N1"  group-title="Domaci",N1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/627.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="GRAND TV"  group-title="Domaci",GRAND TV
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/633.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="B92"  group-title="Domaci",B92
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/631.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BN Sat"  group-title="Domaci",BN Sat
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/624.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OBN"  group-title="Domaci",OBN
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/628.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BHT 1"  group-title="Domaci",BHT 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/623.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FTV"  group-title="Domaci",FTV
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/626.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SITEL"  group-title="Domaci",SITEL
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/635.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Kanal 5"  group-title="Domaci",Kanal 5
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/634.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CineStar Premiere"  group-title="Domaci",CineStar Premiere
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/12.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CineStar Premiere 2"  group-title="Domaci",CineStar Premiere 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/11.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV 1000"  group-title="Domaci",TV 1000
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/10.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pink Crime & Mystery"  group-title="Domaci",Pink Crime & Mystery
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/638.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pink Action"  group-title="Domaci",Pink Action
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/636.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pink Comedy"  group-title="Domaci",Pink Comedy
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/637.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pink Super Kids"  group-title="Domaci",Pink Super Kids
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/9.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Mini TV"  group-title="Domaci",Mini TV
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/8.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nickelodeon"  group-title="Domaci",Nickelodeon
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/639.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery Channel DE"  group-title="Strani",Discovery Channel DE
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/7.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery Channel"  group-title="Domaci",Discovery Channel
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/6.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="H2"  group-title="Domaci",H2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/5.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Crime & Investigation"  group-title="Domaci",Crime & Investigation
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/3.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="National Geographic"  group-title="Domaci",National Geographic
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/4.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Arena Sport 1"  group-title="Domaci",Arena Sport 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/2.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Arena Sport 2"  group-title="Domaci",Arena Sport 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/640.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sport Klub 1"  group-title="Domaci",Sport Klub 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/1.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OTV Valentino"  group-title="Domaci",OTV Valentino
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/629.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DM Sat"  group-title="Domaci",DM Sat
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/632.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BN Music"  group-title="Domaci",BN Music
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/625.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Balkanika"  group-title="Domaci",Balkanika
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/630.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sport Klub 2"  group-title="Domaci",Sport Klub 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/641.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Al Jazeera Balkans"  group-title="Domaci",Al Jazeera Balkans
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bosna TV"  group-title="Domaci",Bosna TV
+http://de2-2.nettvplus.com:8080/stream/?channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Hayat Music"  group-title="Domaci",Hayat Music
+http://84.22.46.188/play/a00t
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NTV Jata"  group-title="Domaci",NTV Jata
+http://109.175.31.2:8525
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV1"  group-title="Domaci",TV1
+http://fra1.ddns.net:97/live/miro/miro/228.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Animal Planet"  group-title="Strani",Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Arena Sport 3"  group-title="Domaci",Arena Sport 3
+http://cp.dmbshare.net:8000/live/nevison/nevison/7231.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Arena Sport 4"  group-title="Domaci",Arena Sport 4
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5GGpzlD1b6/1967.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TLC"  group-title="Strani",TLC
+http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Eurosport 2"  group-title="Domaci",Eurosport 2
+http://188.247.133.22:8888/ipvt_008
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sport Klub 5"  group-title="Domaci",Sport Klub 5
+http://orbit-iptv.com:2500/live/TiKoy7i7lV/FE8NILcozr/3679.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sport Klub 4"  group-title="Domaci",Sport Klub 4
+http://orbit-iptv.com:2500/live/TiKoy7i7lV/FE8NILcozr/3678.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sport Klub 3"  group-title="Domaci",Sport Klub 3
+http://cp.dmbshare.net:8000/live/nevison/nevison/7678.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VIKEND FILM"  group-title="Domaci",VIKEND FILM
+http://176.9.150.209:8080/movie/VikendMOV/wqre34rtERASFGSRTDGaerz4w564t4hdGr443FGrfr/642.mkv
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Hayatovci"  group-title="Domaci",Hayatovci
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1203.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRT Sport"  group-title="Strani",TRT Sport
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1233.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Televizija 5"  group-title="Domaci",Televizija 5
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1231.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sport TV (TUR)"  group-title="Strani",Sport TV (TUR)
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1227.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sport UKR"  group-title="Strani",Sport UKR
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1226.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTV Slon"  group-title="Domaci",RTV Slon
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1222.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTV Pomoravlje"  group-title="Domaci",RTV Pomoravlje
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1221.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTV Novi Pazar"  group-title="Domaci",RTV Novi Pazar
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1220.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PI Kanal"  group-title="Strani",PI Kanal
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1212.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Fanatik TV (tur)"  group-title="Strani",Fanatik TV (tur)
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1197.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Being Sport HD"  group-title="Strani",Being Sport HD
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1187.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Viasat Nature"  group-title="Strani",Viasat Nature
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/711.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Viasat History"  group-title="Strani",Viasat History
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/710.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VEVO DE"  group-title="Strani",VEVO DE
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/708.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sandžak TV"  group-title="Domaci",Sandžak TV
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/697.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTV Mlava"  group-title="Domaci",RTV Mlava
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/695.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTCG Sat"  group-title="Domaci",RTCG Sat
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/691.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Puls"  group-title="Domaci",Puls
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/689.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pink Zabava"  group-title="Domaci",Pink Zabava
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/645.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pink World"  group-title="Domaci",Pink World
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/649.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MiM Televizija"  group-title="Domaci",MiM Televizija
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/679.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Jugoton"  group-title="Domaci",Jugoton
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/675.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="City TV  BG"  group-title="Domaci",City TV  BG
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/666.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Atlas TV"  group-title="Domaci",Atlas TV
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/656.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VIP HD"  group-title="Domaci",VIP HD
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/142.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV Student"  group-title="Domaci",TV Student
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/133.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV Duga"  group-title="Domaci",TV Duga
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/127.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV AS Sabac"  group-title="Domaci",TV AS Sabac
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/124.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV 777"  group-title="Domaci",TV 777
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/122.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTV Banovina"  group-title="Domaci",RTV Banovina
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/98.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Poker Central"  group-title="Strani",Poker Central
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/83.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="KCN 3"  group-title="Domaci",KCN 3
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/63.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="KCN 2"  group-title="Domaci",KCN 2
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/62.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="KCN 1"  group-title="Domaci",KCN 1
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/61.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Fight Sport"  group-title="Strani",Fight Sport
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/54.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CMC"  group-title="Domaci",CMC
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/38.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="A1 Balkan"  group-title="Domaci",A1 Balkan
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/25.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Jajce 1"  group-title="Kamere",Jajce 1
+rtsp://185.12.78.118:554/av0_0
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Jajce 2"  group-title="Kamere",Jajce 2
+rtsp://185.12.78.118:555/av0_0
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio Jajce"  group-title="Radio",Radio Jajce
+http://144.76.172.23:7032/;
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pink BH"  group-title="Domaci",Pink BH
+http://51.254.136.4:4443/pinkbh-www.sipragezabava.com
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Fox Crime"  group-title="Domaci",Fox Crime
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5GGpzlD1b6/1955.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pink Film"  group-title="Domaci",Pink Film
+http://spirit01.webhop.me:8000/live/VOwCu3atg2/5GGpzlD1b6/1925.ts
+
+#EXTINF:0, tvg-id="" tvg-logo="New Logo" tvg-name="Pink Reality"  group-title="Domaci",Pink Reality
+http://188.247.133.24:8888/ipvt_003
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RTRS Plus"  group-title="Domaci",RTRS Plus
+http://176.9.150.209:8080/live/ExYuApp/H4VVRImbQ53FC7sWZ0u73/1219.ts
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedBull TV"  group-title="Strani",RedBull TV
+http://176.9.150.209:8080/live/ExYuApp/H4VVRImbQ53FC7sWZ0u73/89.ts
+
+#EXTINF:0, tvg-id="Komedija, Drama" tvg-logo="https://s2.graphiq.com/sites/default/files/7522/media/images/Burnt_2015_7456966.jpg" tvg-name="Burnt 2015"  group-title="Filmovi s prevodom",Burnt 2015
+http://176.9.150.209:8080/movie/Film/werRWfhT64346zbb4564b64b6768hz2T/780.mkv
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Brooklyn 2015"  group-title="Filmovi s prevodom",Brooklyn 2015
+http://176.9.150.209:8080/movie/Film/werRWfhT64346zbb4564b64b6768hz2T/779.mkv
+
