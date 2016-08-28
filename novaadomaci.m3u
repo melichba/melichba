@@ -312,7 +312,7 @@ http://176.9.150.209:8080/live/ExYuApp/H4VVRImbQ53FC7sWZ0u73/1219.ts
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedBull TV"  group-title="Strani",RedBull TV
 http://176.9.150.209:8080/live/ExYuApp/H4VVRImbQ53FC7sWZ0u73/89.ts
 
-#EXTINF:0, tvg-id="Komedija, Drama" tvg-logo="https://s2.graphiq.com/sites/default/files/7522/media/images/Burnt_2015_7456966.jpg" tvg-name="Burnt 2015"  group-title="Filmovi s prevodom",Burnt 2015
+#EXTINF:0, tvg-id="Komedija, Drama" tvg-logo="https://s2.graphiq.com/sites/default/files/7522/media/images/Burnt_2015_7456966.jpg" tvg-name="Burnt"  group-title="Filmovi s prevodom",Burnt 2015
 http://176.9.150.209:8080/movie/Film/werRWfhT64346zbb4564b64b6768hz2T/780.mkv
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Brooklyn 2015"  group-title="Filmovi s prevodom",Brooklyn 2015
